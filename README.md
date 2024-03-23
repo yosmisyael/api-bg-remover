@@ -5,7 +5,7 @@ ___
 ## Prerequisites
 - Python 3.9 above
 - Flask Framework
-- U2net Model
+- U2net Model (https://github.com/danielgatis/rembg/releases/download/v0.0.0/u2net.onnx)
 ___
 ## Installation
 ```shell
